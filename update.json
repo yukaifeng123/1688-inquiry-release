@@ -1,8 +1,19 @@
 {
   "app": "1688询盘管家",
-  "latest_version": "2.23",
-  "notes": "v2.23 新版本（桌面图标换老婆照，全部功能不变）。",
-  "download_url": "https://github.com/yukaifeng123/1688-inquiry-release/releases/download/v2.23/Setup_v2.23.exe",
+  "latest_version": "2.24",
+  "notes": "v2.24 新版本（勾选表嵌入主图 3cm + 国内下载镜像）。",
+  "download_url": "https://github.com/yukaifeng123/1688-inquiry-release/releases/download/v2.24/Setup_v2.24.exe",
+  "download_url_mirrors": [
+    "https://gh-proxy.com/https://github.com/yukaifeng123/1688-inquiry-release/releases/download/v2.24/Setup_v2.24.exe",
+    "https://mirror.ghproxy.com/https://github.com/yukaifeng123/1688-inquiry-release/releases/download/v2.24/Setup_v2.24.exe",
+    "https://ghps.cc/https://github.com/yukaifeng123/1688-inquiry-release/releases/download/v2.24/Setup_v2.24.exe"
+  ],
+  "sources": [
+    "https://github.com/yukaifeng123/1688-inquiry-release/releases/download/v2.24/Setup_v2.24.exe",
+    "https://gh-proxy.com/https://github.com/yukaifeng123/1688-inquiry-release/releases/download/v2.24/Setup_v2.24.exe",
+    "https://mirror.ghproxy.com/https://github.com/yukaifeng123/1688-inquiry-release/releases/download/v2.24/Setup_v2.24.exe",
+    "https://ghps.cc/https://github.com/yukaifeng123/1688-inquiry-release/releases/download/v2.24/Setup_v2.24.exe"
+  ],
   "file_size_mb": 65.4,
-  "published_at": "2026-09-08 00:09:38"
+  "published_at": "2026-09-08 00:31:15"
 }
