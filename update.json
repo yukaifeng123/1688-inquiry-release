@@ -1,12 +1,12 @@
 {
   "app": "1688询盘管家",
-  "latest_version": "2.25",
-  "notes": "v2.25 新版本（更新横幅 UI 智能测速，点下载前先测哪个源能通）。",
-  "download_url": "https://github.com/yukaifeng123/1688-inquiry-release/releases/download/v2.25/Setup_v2.25.exe",
+  "latest_version": "2.26",
+  "notes": "v2.26 新版本（修复点下载更新没反应——按钮补回跳转链接）。",
+  "download_url": "https://github.com/yukaifeng123/1688-inquiry-release/releases/download/v2.26/Setup_v2.26.exe",
   "download_url_mirrors": [
-    "https://gh-proxy.com/https://github.com/yukaifeng123/1688-inquiry-release/releases/download/v2.25/Setup_v2.25.exe",
-    "https://ghproxy.net/https://github.com/yukaifeng123/1688-inquiry-release/releases/download/v2.25/Setup_v2.25.exe"
+    "https://gh-proxy.com/https://github.com/yukaifeng123/1688-inquiry-release/releases/download/v2.26/Setup_v2.26.exe",
+    "https://ghproxy.net/https://github.com/yukaifeng123/1688-inquiry-release/releases/download/v2.26/Setup_v2.26.exe"
   ],
-  "file_size_mb": 65.4,
-  "published_at": "2026-09-08 20:24:24"
+  "file_size_mb": 69.1,
+  "published_at": "2026-09-09 23:23:11"
 }
