@@ -1,12 +1,12 @@
 {
   "app": "1688询盘管家",
-  "latest_version": "2.27",
-  "notes": "v2.27 新版本（文字条件筛选 + 自定义开头文字）。",
-  "download_url": "https://github.com/yukaifeng123/1688-inquiry-release/releases/download/v2.27/Setup_v2.27.exe",
+  "latest_version": "2.28",
+  "notes": "v2.28 新版本（文字条件筛选 + 自定义开头文字）。",
+  "download_url": "https://github.com/yukaifeng123/1688-inquiry-release/releases/download/v2.28/Setup_v2.28.exe",
   "download_url_mirrors": [
-    "https://gh-proxy.com/https://github.com/yukaifeng123/1688-inquiry-release/releases/download/v2.27/Setup_v2.27.exe",
-    "https://ghproxy.net/https://github.com/yukaifeng123/1688-inquiry-release/releases/download/v2.27/Setup_v2.27.exe"
+    "https://gh-proxy.com/https://github.com/yukaifeng123/1688-inquiry-release/releases/download/v2.28/Setup_v2.28.exe",
+    "https://ghproxy.net/https://github.com/yukaifeng123/1688-inquiry-release/releases/download/v2.28/Setup_v2.28.exe"
   ],
   "file_size_mb": 69.1,
-  "published_at": "2026-09-15 21:11:18"
+  "published_at": "2026-09-15 21:46:02"
 }
